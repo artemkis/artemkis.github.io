@@ -90,11 +90,6 @@ ul {
   z-index: -1;
 }
 
-/*.photo img { ########### Тут будет моя фотка
-  width: 100%;
-  border-radius: 50%;
-} */
-
 .photo {           
   width: 210px;
   height: 157px; 
