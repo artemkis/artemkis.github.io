@@ -58,7 +58,7 @@
             Counter: percent
           },
           {
-            duration: 1000,
+            duration: 5000,
             step: function(now) {
               return $(this).text(Math.ceil(now) + "%");
             }
