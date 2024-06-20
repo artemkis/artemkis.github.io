@@ -12,7 +12,7 @@
                 .parents()
                 .attr("data-percent") + "%"
           },
-          1000,
+          5000,
           "linear",
           function() {
             return $(this).css({
@@ -41,7 +41,7 @@
         {
           strokeDashoffset: cbar
         },
-        1000,
+        5000,
         "linear",
         function() {
           return circle.css({
