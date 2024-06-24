@@ -249,11 +249,15 @@ ul {
   animation: circle 1.2s infinite;
 }
 
-.work ul li:hover span {
+.edu ul li span:hover {
   color: #fdd835;
 }
 
-.edu ul li:hover small {
+.edu ul li small:hover {
+  color: #fdd835;
+}
+
+.work ul li:hover span {
   color: #fdd835;
 }
 
